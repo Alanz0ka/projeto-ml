@@ -1,0 +1,57 @@
+# #################### #
+# Arquivos Python      #
+# #################### #
+
+# Arquivos de bytecode e otimizados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Artefatos de distribuição e empacotamento
+build/
+dist/
+*.egg-info/
+*.egg
+
+# #################### #
+# Ambientes Virtuais   #
+# #################### #
+
+# Padrão para Poetry, venv, etc.
+.venv/
+venv/
+env/
+
+# #################### #
+# Jupyter Notebook     #
+# #################### #
+
+# Arquivos de checkpoint
+.ipynb_checkpoints
+
+# #################### #
+# Dependências e Logs  #
+# #################### #
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente com variáveis sensíveis
+.env
+
+# #################### #
+# Arquivos de IDE/SO   #
+# #################### #
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

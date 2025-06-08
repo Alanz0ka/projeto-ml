@@ -23,7 +23,7 @@ O conjunto de dados é um arquivo CSV simples com duas colunas:
 
 Os dados apresentam uma forte correlação linear, como pode ser visto no gráfico de dispersão abaixo, onde o aumento do diâmetro corresponde a um aumento no preço.
 
-![Gráfico de Dispersão de Preço por Diâmetro](https://raw.githubusercontent.com/alanz0ka/projeto-ml/main/scatterplot.png)
+![Gráfico de Dispersão de Preço por Diâmetro](img/output.png)
 
 *(Nota: O gráfico acima foi gerado no notebook `testes.ipynb`)*.
 
